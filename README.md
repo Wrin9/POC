@@ -23,3 +23,4 @@
 [6.[+]向日葵_RCE_POC（CNVD-2022-10270/CNVD-2022-03672）](https://github.com/Wrin9/sunflower_RCE_POC)
 
 [7.[-]CVE-2021-43287](https://github.com/Wrin9/CVE-2021-43287)
+[8.[-]CNVD-2021-09505](https://github.com/Wrin9/CNVD-2021-09505_RCE)
