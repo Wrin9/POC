@@ -7,6 +7,8 @@
 ### PS：有些POC网上暂未公布[-]，只分享在个人知识星球
 
 #### 微信群会做日常的交流分享
+![6fd1829f0a8dfe3b336dd7c701bbdac](https://user-images.githubusercontent.com/54984589/167239962-1b056483-6ea5-452b-9a13-7eb33817e0b6.jpg)
+
 
 [1.[+]泛微OA_V9版本的SQL代码执行漏洞](https://github.com/Wrin9/weaverOA_sql_RCE)
 
