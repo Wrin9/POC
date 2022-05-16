@@ -30,3 +30,5 @@
 [9.[+]汇文OPAC v5.6.1.201019 管理默认弱口令](https://github.com/Wrin9/-OPAC-v5.6.1.201019-)
 
 [10.[+]CVE-2021-43287](https://github.com/Wrin9/CVE-2021-43287)
+
+[11.[-]CVE-2022-1388](https://github.com/Wrin9/CVE-2022-1388)
