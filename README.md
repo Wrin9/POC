@@ -25,7 +25,7 @@
 
 [7.[-]CVE-2021-43287](https://github.com/Wrin9/CVE-2021-43287)
 
-[8.[-]CNVD-2021-09505](https://github.com/Wrin9/CNVD-2021-09505_RCE)
+[8.[+]CNVD-2021-09505](https://github.com/Wrin9/CNVD-2021-09505_RCE)
 
 [9.[+]汇文OPAC v5.6.1.201019 管理默认弱口令](https://github.com/Wrin9/-OPAC-v5.6.1.201019-)
 
